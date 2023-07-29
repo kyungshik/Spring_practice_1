@@ -6,6 +6,7 @@
 1. [개발 환경 세팅하기](note/first_step_setting_spring.md)   
 2. [Welcome Page 만들기](note/create_welcome_page.md)
 3. [빌드하고 실행하기](note/build.md)
+4. [정적 컨텐츠](note/staticpage.md)
 
 
  
