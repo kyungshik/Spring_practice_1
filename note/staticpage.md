@@ -21,7 +21,7 @@
 3. 빌드하여 해당 정적 컨텐츠를 확인한다.   
    - 해당 로컬 사이트에 들어가서 정적 컨텐츠를 확인한다.
    - http://localhost:8080/hello-static.html
-   ![](정적컨텐츠1.png)
+   ![](img/정적컨텐츠1.png)
 4. 정적 컨텐츠 구조 
    - 웹브라우저에서 http://localhost:8080/hello-static.html 요청을 보낸다.
    - 내장 톰켓 서버 -> 스프링 컨테이너

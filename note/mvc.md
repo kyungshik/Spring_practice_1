@@ -1,7 +1,7 @@
 # MVC
 1. MVC   
    MVC 패턴을 이용해 Model, View, Cotroller로 나누어 웹을 개발하면 클라이언트가 서버에 웹 문서를 요청할 경우, HTML을 동적으로 바꾸어 응답해줍니다.
-![](mvc1.png)
+![](img/mvc1.png)
    - Model: 데이터와 비즈니스 로직을 관리     
               모델은 앱이 포함해야할 데이터가 무엇인지를 정의합니다.    
               데이터의 상태가 변경되면 모델을 일반적으로 뷰에게 알리며
@@ -44,4 +44,4 @@
 ````
 4. 실행   
    http://localhost:8080/hello-mvc?name=wesley~!XD
-    ![](mvc2.png)
+    ![](img/mvc2.png)

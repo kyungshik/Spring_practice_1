@@ -8,7 +8,7 @@
     ```
    ./gradlew build
     ```
-   ![](빌드1.png)
+   ![](img/빌드1.png)
 3. 빌드에 성공한 후 build 폴더로 이동한다. 
    - build -> libs -> hello-spring-0.0.1-SNAPSHOT.jar
     ```
@@ -21,5 +21,5 @@
    ```
    java -jar hello-spring-0.0.1-SNAPSHOT.jar 
    ```
-![](빌드2.png)
+![](img/빌드2.png)
 성공적으로 빌드 되었다.

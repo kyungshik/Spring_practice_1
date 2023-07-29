@@ -20,7 +20,7 @@ Hello spring
 </html>
 ```
 
-![img.png](img.png)
+![img.png](img/img.png)
 localhost:8080에서 제대로 잘 실행되는 것을 볼 수 있다.
 index.html에서 하이퍼 참조를 통해 /hello 로 가는 링크를 만들었다.
 해당 링크를 클릭하였을 때 동작할 수 있게하는 프로그램을 만든다.
@@ -63,7 +63,7 @@ public class HelloController {
 </body>
 </html>
 ```
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 
 ---
 다음에 할일 [빌드하기](build.md)
