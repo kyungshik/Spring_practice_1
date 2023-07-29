@@ -7,6 +7,7 @@
 2. [Welcome Page 만들기](note/create_welcome_page.md)
 3. [빌드하고 실행하기](note/build.md)
 4. [정적 컨텐츠](note/staticpage.md)
+5. [MVC](note/mvc.md)
 
 
  
